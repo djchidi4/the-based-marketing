@@ -4958,7 +4958,7 @@ transform: translateY(-50%);
     z-index: 1;
 }
 [data-overlay-dark]:before {
-    background: #000;
+    background: ;
 }
 [data-overlay-dark] h1,
 [data-overlay-dark] h2,
