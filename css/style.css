@@ -4422,7 +4422,7 @@ font-size: 24px;
   color: #1b1b1b;
 }
 .btn-1 i {
-    color: #fff;
+    color: #1b1b1b;
     font-size: 20px;
     margin-right: 5px;
 }
@@ -4533,7 +4533,7 @@ font-size: 24px;
 .btn-5:hover {
   border: 1px solid #fece00;
   background-color: #fece00;
-  color: #fff;
+  color: #1b1b1b;
 }
 .btn-5 i {
     color: #1b1b1b;
@@ -4541,7 +4541,7 @@ font-size: 24px;
     margin-right: 5px;
 }
 .btn-5:hover i {
-    color: #fff;
+    color: #1b1b1b;
 }
 
 
