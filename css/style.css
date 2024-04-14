@@ -104,7 +104,7 @@ p {
     font-size: 16px;
     line-height: 1.75em;
     margin: 0 0 15px;
-    color: #ccc;
+    color: #e9e9e9;
     font-weight: 400;
 }
 /* lists */
@@ -362,6 +362,7 @@ input[type="checkbox"] {
 .bg-img {
     background-size: cover;
     background-repeat: no-repeat;
+    top: 10px;
 }
 .bg-img-position-top {
     background-position: top;
@@ -1884,6 +1885,7 @@ ul.disc.disc li:before {
     font-size: 16px;
     color: #fff;
     margin-bottom: 15px;
+    margin-top: 5px;
 }
 
 
@@ -3834,7 +3836,7 @@ font-size: 24px;
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(0, 0, 0, 0.5); /* Adjust the alpha value (0.5) to change the darkness of the overlay */
+    background-color: rgba(0, 0, 0, 0.2); /* Adjust the alpha value (0.5) to change the darkness of the overlay */
     z-index: 1;
 }
 
