@@ -2879,7 +2879,7 @@ ul.disc.disc li:before {
     font-weight: 700;
     font-size: 100px;
     position: relative;
-    bottom: 0px;
+    bottom: 15px;
     right: -15px;
     text-align: end;
     color: transparent;
@@ -2887,8 +2887,8 @@ ul.disc.disc li:before {
     opacity: .8;
 }
 .services .item:hover .wrap .numb {
-   color: transparent;
-    -webkit-text-stroke: 2px rgba(255,255,255,0.2);
+    color: black;
+    -webkit-text-stroke: 2px #ffffff;
     opacity: .8;
 }
 .services .item.active {
@@ -2904,8 +2904,8 @@ ul.disc.disc li:before {
     color: rgba(255,255,255,0.05);
 }
 .services .item.active .numb {
-        color: transparent;
-    -webkit-text-stroke: 2px rgba(255,255,255,0.2);
+    color: black;
+    -webkit-text-stroke: 2px #ffffff;
     opacity: .8;
 }
 
